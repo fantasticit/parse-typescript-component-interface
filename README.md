@@ -1,4 +1,4 @@
-# 解析 TypeScript Component 接口定义
+# 使用 AST 解析 React TypeScript Component 接口定义
 
 ## 背景
 
